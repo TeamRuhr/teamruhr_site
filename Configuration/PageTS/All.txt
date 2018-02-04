@@ -1,0 +1,7 @@
+#
+# PageTS for TeamRuhr Site
+#
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:teamruhr_site/Configuration/PageTS/RTE.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:teamruhr_site/Configuration/PageTS/TCEFORM.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:teamruhr_site/Configuration/PageTS/TCEMAIN.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:teamruhr_site/Configuration/PageTS/Mod/WebLayout/BackendLayouts.txt">

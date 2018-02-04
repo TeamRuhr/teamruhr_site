@@ -1,0 +1,22 @@
+{
+  "name": "teamruhr-site",
+  "description": "Site package for teamruhr.de",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TeamRuhr/teamruhr_site.git"
+  },
+  "homepage": "https://teamruhr.de",
+  "author": "Michael Oehlhof",
+  "version": "1.0.0",
+  "license": "GPL-2.0+",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-cssmin": "~0.12.3",
+    "grunt-contrib-less": "~1.0.0",
+    "grunt-contrib-uglify": "~0.9.1",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-postcss": "^0.7.1",
+    "grunt-image": "^1.2.2",
+    "autoprefixer": "^6.1.1"
+  }
+}

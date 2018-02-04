@@ -1,0 +1,29 @@
+#
+# BACKENDLAYOUT: DEFAULT
+#
+mod {
+    web_layout {
+        BackendLayouts {
+            teamruhr_site_default {
+                title = LLL:EXT:teamruhr_site/Resources/Private/Language/locallang.xlf:backend_layout.default
+                config {
+                    backend_layout {
+                        colCount = 1
+                        rowCount = 1
+                        rows {
+                            1 {
+                                columns {
+                                    1 {
+                                        name = LLL:EXT:teamruhr_site/Resources/Private/Language/locallang.xlf:backend_layout.column.normal
+                                        colPos = 0
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+                icon = EXT:teamruhr_site/Resources/Public/Images/BackendLayouts/default.png
+            }
+        }
+    }
+}
