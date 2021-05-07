@@ -5,10 +5,10 @@
     "homepage": "https://teamruhr.de",
     "license": ["GPL-2.0+"],
     "keywords": ["TYPO3 CMS"],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "require": {
-        "typo3/cms-core": "^8.7 || ^9.0",
-        "typo3/cms-rte-ckeditor": "^8.7 || ^9.0",
-        "typo3/cms-fluid-styled-content": "^8.7 || ^9.0"
+        "typo3/cms-core": "10.4.14",
+        "typo3/cms-rte-ckeditor": "10.4.14",
+        "typo3/cms-fluid-styled-content": "10.4.14"
     }
 }
